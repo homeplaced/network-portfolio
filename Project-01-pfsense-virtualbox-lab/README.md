@@ -1,18 +1,6 @@
+# Network Portfolio
 
+Hands-on labs with documentation, evidence, and troubleshooting notes.
 
-# Project 01: pfSense VirtualBox Lab
-
-## Goal
-Deploy pfSense in VirtualBox and validate LAN management access from the Windows host.
-
-## Environment
-- Host OS: Windows 11
-- Hypervisor: VirtualBox 7.x
-- Firewall: pfSense
-
-## Topology
-- WAN: VirtualBox NAT
-- LAN: VirtualBox Host-only
-
-## Validation
-- pfSense Web UI reachable from host browser
+## Projects
+- [Project 01: pfSense VirtualBox Lab](./Project-01-pfsense-virtualbox-lab/README.md)
