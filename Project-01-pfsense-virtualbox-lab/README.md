@@ -34,6 +34,7 @@ Build a small lab network using pfSense in VirtualBox and validate LAN routing +
 - Client can reach pfSense gateway
 - DNS resolution and internet connectivity verified
 - Evidence screenshots located in `/evidence`
+- Phase 3: DNS block test completed
 
 ### Tests Performed
   - [x] `ping 192.168.10.1`
